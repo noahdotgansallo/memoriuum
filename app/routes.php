@@ -10,8 +10,10 @@
 | and give it the Closure to execute when that URI is requested.
 |
 */
+Route::get('/', function(){
+	return View::make('before');
+});
 
-Route::get('/', function()
-{
-	return View::make('hello');
+Route::group(array('prefix' => 'api'), function(){
+
 });
