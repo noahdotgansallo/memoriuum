@@ -123,6 +123,9 @@ return array(
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 		'Cartalyst\Sentry\SentryServiceProvider',
 
+		//ApiReponse
+		'Memoriuum\ServiceProviders\ApiResponseServiceProvider',
+
 	),
 
 	/*
@@ -190,6 +193,7 @@ return array(
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
 		'Sentry'		  => 'Cartalyst\Sentry\Facades\Laravel\Sentry',
+		'ApiResponse' 	  => 'Memoriuum\Classes\ApiResponse',
 
 	),
 

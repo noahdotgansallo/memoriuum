@@ -88,3 +88,10 @@ Route::filter('csrf', function()
 		throw new Illuminate\Session\TokenMismatchException;
 	}
 });
+
+Route::filter('uauth', function(){
+	if(!Sentry::check())
+	{
+		return ApiResponse::response(0, 'Please login to continue');
+	}
+});

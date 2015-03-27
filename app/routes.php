@@ -11,9 +11,39 @@
 |
 */
 Route::get('/', function(){
-	return View::make('before');
+	return View::make('tester');
 });
 
 Route::group(array('prefix' => 'api'), function(){
+
+	//Uauth Routes
+	Route::group(array('prefix' => 'uauth'), function(){
+
+		//Uauth Register Route
+		Route::post('/register', 'UserAuthController@register');
+
+		//Uauth Login Route
+		Route::post('/login', 'UserAuthController@login');
+
+		//Uauth Logout Route
+		Route::post('/logout', 'UserAuthController@logout');
+
+		//Uauth Activation Group
+		Route::group(array('prefix' => 'activation'), function(){
+
+			//Uauth Activation Route
+			Route::get('{code}', 'UserAuthController@activate');
+		});
+	});
+
+	//Memory Routes
+	Route::group(array('prefix' => 'memory', 'before' => 'uauth'), function(){
+
+		//Memory Create Route
+		Route::post('create', 'MemoryController@create');
+
+		//Memory Focus Route
+		Route::post('/focus/{id}', 'MemoryController@focus');
+	});
 
 });
