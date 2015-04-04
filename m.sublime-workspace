@@ -1,0 +1,1235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"array"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"file",
+				"apc_delete_file"
+			],
+			[
+				"Mem",
+				"Memory"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"media",
+				"media_author"
+			],
+			[
+				"me",
+				"memory"
+			],
+			[
+				"medi",
+				"media_author"
+			],
+			[
+				"Memo",
+				"MemoryController"
+			],
+			[
+				"ex",
+				"expiresAt"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fun",
+				"func_get_arg"
+			],
+			[
+				"arg",
+				"argDecider"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"valu",
+				"array_values"
+			],
+			[
+				"array",
+				"array_reduce"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"paper",
+				"paper-tabs"
+			],
+			[
+				"Cyc",
+				"CycleController"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"User",
+				"UserAuthController"
+			],
+			[
+				"form",
+				"form-card"
+			],
+			[
+				"Service",
+				"ServiceProviders"
+			],
+			[
+				"Array",
+				"ArrayResponseServiceProvider"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"next",
+				"nextClosestAdvance"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"return",
+				"returnArray"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"hot",
+				"hotels"
+			],
+			[
+				"lo",
+				"locations"
+			],
+			[
+				"ven",
+				"venueID"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"Man",
+				"ManagerController"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"event",
+				"event_search_results"
+			],
+			[
+				"url",
+				"urldecode"
+			],
+			[
+				"ang",
+				"angular"
+			],
+			[
+				"curren",
+				"currentArray"
+			],
+			[
+				"curre",
+				"currentArray"
+			],
+			[
+				"advan",
+				"advanceNegotiations"
+			],
+			[
+				"last",
+				"lastID_model"
+			],
+			[
+				"iter",
+				"iterateArtist"
+			],
+			[
+				"itet",
+				"iterateArtist"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ele",
+				"elementRaw"
+			],
+			[
+				"venue",
+				"venueResults"
+			],
+			[
+				"searc",
+				"searchData"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"creaet",
+				"createData"
+			],
+			[
+				"create",
+				"createData"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"reg",
+				"registerData"
+			],
+			[
+				"tour",
+				"tour_id"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"que",
+				"queryArray"
+			],
+			[
+				"sear",
+				"searchData"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"advance",
+				"advanceArray"
+			],
+			[
+				"a",
+				"angular"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"menu",
+				"menuContent"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"account",
+				"account_info"
+			],
+			[
+				"stu",
+				"status"
+			],
+			[
+				"oauth_to",
+				"oauth_token_secret"
+			],
+			[
+				"ana",
+				"analyzeFollowers"
+			],
+			[
+				"accoun",
+				"account_info"
+			],
+			[
+				"oau",
+				"oauth_token_secret"
+			],
+			[
+				"oauth",
+				"oauth_token"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"calss",
+				"classe_id"
+			],
+			[
+				"cal",
+				"classe_id"
+			],
+			[
+				"simpl",
+				"simplexml_load_string"
+			],
+			[
+				"xml_pars",
+				"xml_parse_into_struct"
+			],
+			[
+				"Class",
+				"ClassController"
+			],
+			[
+				"Classes",
+				"classes"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"cals",
+				"classes"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"paddig",
+				"padding-top"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"art",
+				"artist_image"
+			],
+			[
+				"polls",
+				"pollstar_artist_id"
+			],
+			[
+				"artist",
+				"artist_image"
+			],
+			[
+				"artis",
+				"artist_image"
+			],
+			[
+				"Arti",
+				"ArtistController"
+			],
+			[
+				"has",
+				"has_image"
+			],
+			[
+				"pollsa",
+				"pollstar_id"
+			],
+			[
+				"poll",
+				"pollstar_id"
+			],
+			[
+				"Venu",
+				"VenueController"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"argu",
+				"argument"
+			],
+			[
+				"Ech",
+				"EchoNestController"
+			],
+			[
+				"echo",
+				"echo_id"
+			],
+			[
+				"comp",
+				"compatible"
+			],
+			[
+				"compatible",
+				"compatible_name"
+			],
+			[
+				"com",
+				"compatible_name"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"image",
+				"image_source"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"rece",
+				"recent_posts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/Memory/MemoryController.php",
+			"settings":
+			{
+				"buffer_size": 2294,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/tester.blade.php",
+			"settings":
+			{
+				"buffer_size": 289,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/memoriuum/Classes/FileAdder.php",
+			"settings":
+			{
+				"buffer_size": 1250,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 1427,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/Uauth/UserAuthController.php",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/memoriuum/Classes/ApiResponse.php",
+			"settings":
+			{
+				"buffer_size": 1573,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/models/User.php",
+			"settings":
+			{
+				"buffer_size": 620,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PackageControl:insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"while 1:",
+			"while 1",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print 'cool you'",
+			"print cool you",
+			"as",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/memoriuum",
+		"/C/wamp/www/memoriuum/app",
+		"/C/wamp/www/memoriuum/app/database/migrations",
+		"/C/wamp/www/memoriuum/app/memoriuum/Classes",
+		"/C/wamp/www/memoriuum/app/views",
+		"/C/wamp/www/memoriuum/vendor",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database/Query",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database/Schema",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database/Schema/Grammars",
+		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation",
+		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony",
+		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony/Component",
+		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation",
+		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/memoriuum/app/database/migrations/2015_03_30_062119_soft_deletes_for_memories.php",
+		"/C/wamp/www/memoriuum/app/controllers/Uauth/UserAuthController.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/ServiceProviders/FileAdderServiceProvider.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/Facades/FileAdder.php",
+		"/C/wamp/www/memoriuum/v/app/routes.php",
+		"/C/wamp/www/memoriuum/v/app/filters.php",
+		"/C/wamp/www/memoriuum/v/app/config/app.php",
+		"/C/wamp/www/memoriuum/v/public/polymer/index.html",
+		"/C/wamp/www/memoriuum/v/app/views/Uauth/template.blade.php",
+		"/C/wamp/www/memoriuum/app/config/cache.php",
+		"/C/wamp/www/memoriuum/app/models/User.php",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/C/wamp/www/memoriuum/app/controllers/Memory/MemoryController.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/Classes/ApiResponse.php",
+		"/C/wamp/www/memoriuum/app/models/Memory.php",
+		"/C/wamp/www/memoriuum/app/routes.php",
+		"/C/wamp/www/memoriuum/.gitignore",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+		"/C/wamp/www/memoriuum/app/database/migrations/2015_03_27_152627_media_author_nullable.php",
+		"/C/wamp/www/memoriuum/app/database/migrations/2015_03_27_152247_add_content_and_media_and_title_back_with_lengths.php",
+		"/C/wamp/www/memoriuum/app/database/migrations/2015_03_27_152218_drop_content_and_media_and_title.php",
+		"/C/wamp/www/memoriuum/app/database/migrations/2015_03_26_192617_memory_starter.php",
+		"/C/wamp/www/memoriuum/app/database/migrations/2015_03_25_164558_unique_username.php",
+		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Cache/ArrayStore.php",
+		"/C/wamp/www/memoriuum/vendor/cartalyst/sentry/src/config/config.php",
+		"/C/wamp/www/memoriuum/app/filters.php",
+		"/C/wamp/www/memoriuum/app/config/mail.php",
+		"/C/wamp/www/memoriuum/app/views/tester.blade.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/ServiceProviders/ApiResponseServiceProvider.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/Facades/ApiResponse.php",
+		"/C/wamp/www/memoriuum/app/controllers/BaseController.php",
+		"/C/wamp/www/memoriuum/app/config/app.php",
+		"/C/wamp/www/gt4ultd/public/js/jQuery.js",
+		"/C/wamp/www/gt4ultd/app/routes.php",
+		"/C/cygwin/home/USER/.bash_profile",
+		"/C/wamp/www/gt4ultd/public/index.html",
+		"/C/wamp/www/gt4ultd/.gitignore",
+		"/C/wamp/www/memoriuum/composer.json",
+		"/C/wamp/www/memoriuum/app/config/database.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/Classes/ArrayBuilder.php",
+		"/C/wamp/www/memoriuum/app/controllers/UserAuth/UserAuthController.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/ServiceProviders/ArrayBuilderServiceProvider.php",
+		"/C/wamp/www/memoriuum/app/views/emails/activate/activate.blade.php",
+		"/C/wamp/www/memoriuum/app/memoriuum/Facades/ArrayBuilder.php",
+		"/C/wamp/www/memoriuum/app/controllers/Cycle/CycleController.php",
+		"/C/wamp/www/memoriuum/app/views/Uauth/index.blade.php",
+		"/C/wamp/www/memoriuum/public/css/template.css",
+		"/C/wamp/www/memoriuum/app/controllers/HomeController.php",
+		"/C/wamp/www/memoriuum/app/views/template.blade.php",
+		"/C/wamp/www/memoriuum/app/views/uauth.blade.php",
+		"/C/wamp/www/memoriuum/app/views/Cycle/index.blade.php",
+		"/C/wamp/www/memoriuum/public/angular/services/userAuthService.js",
+		"/C/wamp/www/memoriuum/public/angular/controllers/userAuthCtrl.js",
+		"/C/Users/USER/Desktop/paper-toast/demo.html",
+		"/C/wamp/www/memoriuum/polymer/index.html",
+		"/C/Users/USER/Desktop/paper-toast/index.html",
+		"/C/Users/USER/Desktop/paper-toast/paper-toast.html",
+		"/C/Users/USER/Desktop/paper-toast/README.md",
+		"/C/wamp/www/polymer-tutorial-master/starter/post-card.html",
+		"/C/wamp/www/booksmart/public/angular/app/AdvanceUX/Contacts/contactCtrl.js",
+		"/C/wamp/www/memoriuum/polymer/login.html",
+		"/C/wamp/www/memoriuum/public/components/form-card/form-card.html",
+		"/C/wamp/www/polymer-tutorial-master/finished/index.html",
+		"/C/wamp/www/polymer-tutorial-master/api/posts.json",
+		"/C/wamp/www/polymer-tutorial-master/finished/post-card.html",
+		"/C/wamp/www/polymer-tutorial-master/finished/post-list.html",
+		"/C/wamp/www/polymer-tutorial-master/post-service/post-service.html",
+		"/C/wamp/www/memoriuum/public/angular/routeBase.js",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/controllers/UserAuth/UserAuthController.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/filters.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/memoriuum/Classes/ApiResponse.php",
+		"/C/wamp/www/memoriuum/polymer/components/form-card/form-card.html",
+		"/C/wamp/www/memoriuum/polymer/angular/controllers/userAuthCtrl.js",
+		"/C/wamp/www/memoriuum/polymer/angular/services/userAuthService.js",
+		"/C/wamp/www/memoriuum/polymer/angular/routeBase.js",
+		"/C/wamp/www/memoriuum/polymer/angular/app.js",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/routes.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/config/app.php",
+		"/C/wamp/www/booksmart/public/angular/app/AdvanceUX/Contacts/contactService.js",
+		"/C/wamp/www/booksmart/public/angular/app/AdvanceUX/Venue/venueService.js",
+		"/C/wamp/www/booksmart/public/angular/app/AdvanceUX/dayOfShow/dayOfShowService.js",
+		"/C/wamp/www/booksmart/public/angular/app/AdvanceUX/dayOfShow/dayOfShowCtrl.js",
+		"/C/Users/USER/Downloads/angular.js",
+		"/C/wamp/www/memoriuum/polymer/components/core-input/core-input.css",
+		"/C/wamp/www/knowtechforteens/app/routes.php",
+		"/C/wamp/www/knowtechforteens/app/filters.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/composer.json",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/database/migrations/2015_03_22_220308_username_drop.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/database/migrations/2015_03_22_220326_username_added_unique.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/memoriuum/Facades/ApiResponse.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/memoriuum/ServiceProviders/ApiResponseServiceProvider.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/bootstrap/autoload.php",
+		"/C/wamp/www/booksmart/app/booksmart/ServiceProviders/AdvanceServiceProvider.php",
+		"/C/wamp/www/booksmart/app/booksmart/Classes/Advance.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/memoriuum/Classes/ArrayResponse.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/memoriuum/Facades/ArrayResponse.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/app/memoriuum/ServiceProviders/ArrayResponseServiceProvider.php",
+		"/C/wamp/www/memoriuum/memoriuum-backend/vendor/cartalyst/sentry/src/Cartalyst/Sentry/SentryServiceProvider.php",
+		"/C/wamp/www/memoriuum/config/database.php",
+		"/C/wamp/www/memoriuum/database/seeds/DatabaseSeeder.php",
+		"/C/wamp/www/memoriuum/config/app.php",
+		"/C/wamp/www/memoriuum/.env",
+		"/C/wamp/www/memoriuum/vendor/cartalyst/sentry/src/migrations/2012_12_06_225921_migration_cartalyst_sentry_install_users.php",
+		"/C/wamp/www/memoriuum/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/USER/Desktop/pinger.bat",
+		"/C/wamp/www/canvastech.github.io/index.html",
+		"/C/wamp/www/whaletech.github.io/index.html",
+		"/C/wamp/www/knowtechforteens/app/views/User/edit.blade.php",
+		"/C/wamp/www/knowtechforteens/app/views/User/profile.blade.php",
+		"/C/wamp/www/knowtechforteens/app/database/migrations/2015_02_27_151554_user_description_.php",
+		"/C/wamp/www/knowtechforteens/public/css/template.css",
+		"/C/wamp/www/knowtechforteens/app/controllers/AuthController.php",
+		"/C/wamp/www/knowtechforteens/app/views/template.blade.php",
+		"/C/wamp/www/noahdotgansallo/app/controllers/CreateController.php",
+		"/C/wamp/www/noahdotgansallo/app/views/create/index.blade.php",
+		"/C/wamp/www/knowtechforteens/app/controllers/ProfileController.php",
+		"/C/wamp/www/knowtechforteens/app/database/migrations/2015_02_26_123520_user_has_profile_img.php",
+		"/C/wamp/www/noahdotgansallo/app/controllers/UserController.php",
+		"/C/wamp/www/knowtechforteens/app/controllers/SearchController.php",
+		"/C/wamp/www/noahdotgansallo/app/views/profile/edit.blade.php",
+		"/C/wamp/www/noahdotgansallo/app/views/profile/index.blade.php",
+		"/C/wamp/www/knowtechforteens/app/views/Search/usearch.blade.php",
+		"/C/wamp/www/knowtechforteens/app/controllers/HomeController.php",
+		"/C/wamp/www/booksmart/app/filters.php",
+		"/C/wamp/www/booksmart/app/routes.php",
+		"/C/wamp/www/knowtechforteens/app/views/Auth/login.blade.php",
+		"/C/wamp/www/knowtechforteens/public/css/materialize.css",
+		"/C/wamp/www/knowtechforteens/app/config/database.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mimetype",
+			"soft",
+			"delete",
+			"soft",
+			"string(",
+			"();\n",
+			"file",
+			"response",
+			"ng-",
+			"ng",
+			"ng-",
+			"http",
+			".card-image",
+			"hover",
+			"code",
+			"contact",
+			"save",
+			"contact",
+			"Security",
+			"hourly",
+			"hidden",
+			"location",
+			"dd(",
+			"dd",
+			"createDefaultContacts",
+			"defaultContacts",
+			"Date",
+			"item",
+			"deleteGear",
+			"scroll",
+			"Widget.contacts",
+			"include",
+			"createTourAdvance",
+			"tour",
+			"createAdvance",
+			"createTourAdvance",
+			"gearCases",
+			"$tourGear",
+			"Chat",
+			"admin",
+			"Login",
+			"Auth.",
+			"Auth::",
+			"View::make('A",
+			"View::make('Auth::make",
+			"style=\"border:1px solid black\"",
+			"dd",
+			"advance",
+			"vm",
+			"artist/search",
+			"search",
+			";\n",
+			"create",
+			"date",
+			"loginData",
+			"console.log",
+			"showdate",
+			"search",
+			"showdate",
+			"api/advance",
+			"post",
+			"login",
+			"dashboard",
+			"$subscription->id",
+			"ure-u-1-2",
+			"pure",
+			"pure-u-1-2",
+			":\">",
+			"http",
+			"{{$user->profile_img}}",
+			"{{",
+			"Compose",
+			"TwitterUser",
+			"link",
+			"<script",
+			"compose-modal",
+			"username",
+			"pencil",
+			"<a class=\"\" data-toggle=\"modal\" data-target=\"#compose-modal\"><i class=\"fa fa-pencil pull-left\"></i></a>",
+			"cookie",
+			"<script",
+			"script",
+			"recovery",
+			"force",
+			"dir",
+			"ddir",
+			"link",
+			".link",
+			"link",
+			"location",
+			"locations",
+			"image",
+			"apiKey",
+			"Advance.Manager",
+			"view",
+			"detail",
+			"settlement",
+			"create()",
+			"create",
+			"action",
+			"SettlementController",
+			"SettlementController@index",
+			"profile-cover\n",
+			"profile-cover",
+			"pc-cover",
+			"pc",
+			"pc-cover-change",
+			"counter",
+			"$images",
+			"calendar.css",
+			"Roster",
+			"protected $table = 'artists';",
+			"u",
+			"artist",
+			"protected $table = 'artists';",
+			"protected $table = 'managerReviews';",
+			"artists",
+			"table",
+			"#layouts",
+			"@yield",
+			"form-wizard-1",
+			"adjacent",
+			"$n",
+			"name",
+			"adjacent-month",
+			"create/agent",
+			"create/",
+			"src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$current_user"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/Memory/MemoryController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/tester.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/memoriuum/Classes/FileAdder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1097,
+								1097
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								918,
+								918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 59.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/controllers/Uauth/UserAuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								932,
+								932
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/memoriuum/Classes/ApiResponse.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/models/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "m.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
