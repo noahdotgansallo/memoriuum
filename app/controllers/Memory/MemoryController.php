@@ -28,7 +28,7 @@ class MemoryController extends BaseController{
 				FileAdder::file($input, $user, $memory);
 
 			} else{
-				$media = $input['media'];
+				$memory->media = $input['media'];
 			}
 
 			$memory->save();

@@ -523,7 +523,15 @@
 			"file": "app/controllers/Memory/MemoryController.php",
 			"settings":
 			{
-				"buffer_size": 2294,
+				"buffer_size": 2302,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/models/Memory.php",
+			"settings":
+			{
+				"buffer_size": 372,
 				"line_ending": "Windows"
 			}
 		},
@@ -622,22 +630,9 @@
 	[
 		"/C/wamp/www/memoriuum",
 		"/C/wamp/www/memoriuum/app",
-		"/C/wamp/www/memoriuum/app/database/migrations",
-		"/C/wamp/www/memoriuum/app/memoriuum/Classes",
+		"/C/wamp/www/memoriuum/app/models",
 		"/C/wamp/www/memoriuum/app/views",
-		"/C/wamp/www/memoriuum/vendor",
-		"/C/wamp/www/memoriuum/vendor/laravel/framework",
-		"/C/wamp/www/memoriuum/vendor/laravel/framework/src",
-		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate",
-		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database",
-		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database/Query",
-		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database/Schema",
-		"/C/wamp/www/memoriuum/vendor/laravel/framework/src/Illuminate/Database/Schema/Grammars",
-		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation",
-		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony",
-		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony/Component",
-		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation",
-		"/C/wamp/www/memoriuum/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File"
+		"/C/wamp/www/memoriuum/vendor"
 	],
 	"file_history":
 	[
@@ -932,7 +927,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -941,15 +936,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2294,
+						"buffer_size": 2302,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								816,
-								816
+								599,
+								599
 							]
 						],
 						"settings":
@@ -958,7 +953,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 112.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -966,6 +961,35 @@
 				},
 				{
 					"buffer": 1,
+					"file": "app/models/Memory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "app/views/tester.blade.php",
 					"semi_transient": false,
 					"settings":
@@ -989,11 +1013,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "app/memoriuum/Classes/FileAdder.php",
 					"semi_transient": false,
 					"settings":
@@ -1005,8 +1029,8 @@
 						"selection":
 						[
 							[
-								1097,
-								1097
+								728,
+								728
 							]
 						],
 						"settings":
@@ -1016,14 +1040,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 107.0,
+						"translation.y": 348.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "app/routes.php",
 					"semi_transient": false,
 					"settings":
@@ -1048,11 +1072,11 @@
 						"translation.y": 59.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "app/controllers/Uauth/UserAuthController.php",
 					"semi_transient": false,
 					"settings":
@@ -1077,11 +1101,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "app/memoriuum/Classes/ApiResponse.php",
 					"semi_transient": false,
 					"settings":
@@ -1107,11 +1131,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "app/models/User.php",
 					"semi_transient": false,
 					"settings":
@@ -1136,7 +1160,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
